@@ -14,5 +14,5 @@ server.listen(PORT, () =>{
 })
 
 server.get('/', (req, res) => {
-    res.send("test")
+    res.send("Pryvit")
 })
